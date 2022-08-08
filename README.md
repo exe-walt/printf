@@ -13,7 +13,9 @@ These arguments are placed using the percentage '%' operator
 
 
 #### Resources
-Code Vault
+
+    Code Vault
+
 ------------
 
 
@@ -33,7 +35,7 @@ va_arg (man 3 va_arg)
 ------------
 
 #### Compilation
-
+     
 ------------
 
 
