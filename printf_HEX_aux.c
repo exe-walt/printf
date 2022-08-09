@@ -16,6 +16,8 @@ int printf_HEX_aux(unsigned int num)
 	{
 		num /= 16;
 		counter++;
+		
+		
 	}
 	counter++;
 	array = malloc(counter * sizeof(int));
