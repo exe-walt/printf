@@ -4,7 +4,7 @@
 
 ------------
 
-This printf project given to us by the ALX  Software Engineering Program is a synergy between Paul Walter Adansi and Tingan Joseph. 
+This printf project given to us by the ALX  Software Engineering Program and is a synergy between Paul Walter Adansi and Tingan Joseph. 
 The purpose of the printf function is to send formatted output to standard output.
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
