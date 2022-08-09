@@ -7,6 +7,8 @@
  */
 int printf_HEX(va_list val)
 {
+	
+	
 	int i;
 	int *array;
 	int counter = 0;
