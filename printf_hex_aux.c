@@ -34,3 +34,4 @@ int printf_hex_aux(unsigned long int num)
 	free(array);
 	return (counter);
 }
+
